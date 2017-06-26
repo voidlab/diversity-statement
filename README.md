@@ -6,7 +6,7 @@ This statement was written for professors of undergraduate and graduate art clas
 
 ## How to use it
 
-Just copy diversity-statement.md and past in your syllabus! :)
+Just copy `diversity-statement.md` and past in your syllabus! :)
 
 ## Attribution
 
